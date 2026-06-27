@@ -545,6 +545,34 @@
       ],
       "lastUpdated": "2026-06-27T06:38:53.841Z",
       "checksum": "279ac7bfffe8f2b6b5a522b0d4392117e1f3162c9ef422e87fa00881b24ffea2"
+    },
+    {
+      "key": "jeemain/2002/12may-s1",
+      "exam": "jeemain",
+      "year": 2002,
+      "shift": "12may-s1",
+      "total": 225,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-06-27T08:35:10.115Z",
+      "checksum": "69c397d1ce781f172711b333768cb102a1891e8effbaaca54b2b5b59b6630307"
+    },
+    {
+      "key": "jeemain/2011/01may-s1",
+      "exam": "jeemain",
+      "year": 2011,
+      "shift": "01may-s1",
+      "total": 90,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-06-27T08:11:24.918Z",
+      "checksum": "3adaa24bd033570b53f5c4bdaf9c1ff8831d964daad53e1f65fe7e92a481e09f"
     }
   ]
 }
