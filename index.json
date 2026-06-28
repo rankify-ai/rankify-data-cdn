@@ -1,466 +1,130 @@
 {
   "datasets": [
     {
-      "key": "neet/2025/04may-s1",
-      "exam": "neet",
-      "year": 2025,
-      "shift": "04may-s1",
-      "total": 180,
+      "key": "jeemain/2002/12may-s1",
+      "exam": "jeemain",
+      "year": 2002,
+      "shift": "12may-s1",
+      "total": 225,
       "subjects": [
         "physics",
         "chemistry",
-        "biology"
+        "mathematics"
       ],
-      "lastUpdated": "2026-05-20T17:59:59.539Z",
-      "checksum": "8bde99a5b5d72a2dc73ad34e7e3b8028a2e2e99766ba6feac1f8bb4cc2fab825"
+      "lastUpdated": "2026-06-27T08:35:10.097Z",
+      "checksum": "69c397d1ce781f172711b333768cb102a1891e8effbaaca54b2b5b59b6630307"
     },
     {
-      "key": "neet/2023/06jun-s2",
-      "exam": "neet",
-      "year": 2023,
-      "shift": "06jun-s2",
+      "key": "jeemain/2003/11may-s1",
+      "exam": "jeemain",
+      "year": 2003,
+      "shift": "11may-s1",
+      "total": 225,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-06-27T09:16:42.575Z",
+      "checksum": "d03b9ecc083cbfb64a83632d1c5bde17da3854c86723fd40c9a66e630fb4dfed"
+    },
+    {
+      "key": "jeemain/2006/30apr-s1",
+      "exam": "jeemain",
+      "year": 2006,
+      "shift": "30apr-s1",
+      "total": 156,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-06-27T11:40:26.448Z",
+      "checksum": "b8879f28e3f9cf010f478abe78fe0006202a2f4b8e4387cda690d77c718a2964"
+    },
+    {
+      "key": "jeemain/2006/30apri-s1",
+      "exam": "jeemain",
+      "year": 2006,
+      "shift": "30apri-s1",
       "total": 147,
       "subjects": [
         "physics",
         "chemistry",
-        "biology"
+        "mathematics"
       ],
-      "lastUpdated": "2026-05-21T18:58:08.941Z",
-      "checksum": "f104f008187cbd2475daa012967517ee2b8404827cb4c765bec9926080625695"
+      "lastUpdated": "2026-06-27T11:25:59.911Z",
+      "checksum": "f499b62d66207a338271da358e7058d1317bc7dfb4a2c8b2f6676dcc4277b1ce"
     },
     {
-      "key": "neet/2026/03may-s1",
-      "exam": "neet",
-      "year": 2026,
-      "shift": "03may-s1",
-      "total": 177,
-      "subjects": [
-        "physics",
-        "chemistry",
-        "biology"
-      ],
-      "lastUpdated": "2026-05-21T17:29:54.806Z",
-      "checksum": "40210fc3912a4422c2481e6eba82a4b7325ed300f3bbf2b9b2f0343cc5b25373"
-    },
-    {
-      "key": "neet/2024/05may-s1",
-      "exam": "neet",
-      "year": 2024,
-      "shift": "05may-s1",
-      "total": 200,
-      "subjects": [
-        "physics",
-        "chemistry",
-        "biology"
-      ],
-      "lastUpdated": "2026-05-21T05:30:13.528Z",
-      "checksum": "80e650897f00410197f0eb46d6267d7162efb8170b52456cdf3b33743195862d"
-    },
-    {
-      "key": "neet/2024/23jun-s2",
-      "exam": "neet",
-      "year": 2024,
-      "shift": "23jun-s2",
-      "total": 200,
-      "subjects": [
-        "physics",
-        "chemistry",
-        "biology"
-      ],
-      "lastUpdated": "2026-05-21T06:00:10.392Z",
-      "checksum": "9d04d4e2a9ca7f69c674a4d63879bd527c68139eb2b368e406af476342c6eab4"
-    },
-    {
-      "key": "neet/2023/07may-s1",
-      "exam": "neet",
-      "year": 2023,
-      "shift": "07may-s1",
-      "total": 130,
-      "subjects": [
-        "physics",
-        "chemistry",
-        "biology"
-      ],
-      "lastUpdated": "2026-05-21T18:43:05.930Z",
-      "checksum": "21cc04198e1d72eacb2de9a920f205021b822b8d53b68c3cc97b14e5ab9bdcd0"
-    },
-    {
-      "key": "neet/2022/17jul-s1",
-      "exam": "neet",
-      "year": 2022,
-      "shift": "17jul-s1",
-      "total": 197,
-      "subjects": [
-        "physics",
-        "chemistry",
-        "biology"
-      ],
-      "lastUpdated": "2026-05-23T06:46:33.949Z",
-      "checksum": "7945ef60f6b1352eb949bbf75e430b1caf372de93473b298a517d49b6c4b91aa"
-    },
-    {
-      "key": "neet/2022/04sep-s2",
-      "exam": "neet",
-      "year": 2022,
-      "shift": "04sep-s2",
-      "total": 132,
-      "subjects": [
-        "physics",
-        "chemistry",
-        "biology"
-      ],
-      "lastUpdated": "2026-05-23T11:21:11.367Z",
-      "checksum": "477c4138ac551680725fd7a4c6fcc429d29a215d625b2d53b288f5a6f0da1a12"
-    },
-    {
-      "key": "neet/2021/12sep-s1",
-      "exam": "neet",
-      "year": 2021,
-      "shift": "12sep-s1",
-      "total": 200,
-      "subjects": [
-        "physics",
-        "chemistry",
-        "biology"
-      ],
-      "lastUpdated": "2026-05-24T06:18:10.704Z",
-      "checksum": "f3bbbc8f73bdb8ae1bd285fd9f8fe5fbbaf5177846c1487da57f18d192ca0cf3"
-    },
-    {
-      "key": "neet/2006/07may-s1",
-      "exam": "neet",
-      "year": 2006,
-      "shift": "07may-s1",
-      "total": 200,
-      "subjects": [
-        "physics",
-        "chemistry",
-        "biology"
-      ],
-      "lastUpdated": "2026-05-24T11:11:35.607Z",
-      "checksum": "5d3611a490ee56828c04fd3c2bb9aa3731375498db277095a81b1fa3f0ef6d13"
-    },
-    {
-      "key": "neet/2007/13may-s1",
-      "exam": "neet",
+      "key": "jeemain/2007/29apri-s1",
+      "exam": "jeemain",
       "year": 2007,
-      "shift": "13may-s1",
-      "total": 200,
+      "shift": "29apri-s1",
+      "total": 120,
       "subjects": [
         "physics",
         "chemistry",
-        "biology"
+        "mathematics"
       ],
-      "lastUpdated": "2026-05-24T11:29:56.779Z",
-      "checksum": "7068604507cb1e956979a1a8fc8d1118d8b04ce87445fa588a1aea556f7c305d"
+      "lastUpdated": "2026-06-27T10:03:51.717Z",
+      "checksum": "1bc2fb3628181a8dcdf8008d0767af8bf958b32c2396899e6da258824c6bdaa8"
     },
     {
-      "key": "neet/2008/04may-s1",
-      "exam": "neet",
+      "key": "jeemain/2008/27apri-s1",
+      "exam": "jeemain",
       "year": 2008,
-      "shift": "04may-s1",
-      "total": 200,
+      "shift": "27apri-s1",
+      "total": 105,
       "subjects": [
         "physics",
         "chemistry",
-        "biology"
+        "mathematics"
       ],
-      "lastUpdated": "2026-05-24T11:44:50.345Z",
-      "checksum": "0bfa10a3116d2c3fdabc053a21dd9e44b7a4e02861d30d76bf1cf733d186a2c4"
+      "lastUpdated": "2026-06-27T09:25:38.553Z",
+      "checksum": "bd3cc959cd92e43043da8d23acef7793e586fc1939c15a661ec257cc72e60db9"
     },
     {
-      "key": "neet/2009/03may-s1",
-      "exam": "neet",
+      "key": "jeemain/2009/26apr-s1",
+      "exam": "jeemain",
       "year": 2009,
-      "shift": "03may-s1",
-      "total": 200,
+      "shift": "26apr-s1",
+      "total": 89,
       "subjects": [
         "physics",
         "chemistry",
-        "biology"
+        "mathematics"
       ],
-      "lastUpdated": "2026-05-24T12:05:37.234Z",
-      "checksum": "eb2adbe28d9058cd53fad466a7ce69c38d4373026b3280de0cd91b1908ddacc7"
+      "lastUpdated": "2026-06-28T08:07:47.020Z",
+      "checksum": "be4d0cf429c6c5779fe57a8f1689c887e619afc52d330f6db80af4fd93a61f1e"
     },
     {
-      "key": "neet/2010/03apri-s1",
-      "exam": "neet",
+      "key": "jeemain/2010/25apri-s1",
+      "exam": "jeemain",
       "year": 2010,
-      "shift": "03apri-s1",
-      "total": 200,
+      "shift": "25apri-s1",
+      "total": 89,
       "subjects": [
         "physics",
         "chemistry",
-        "biology"
+        "mathematics"
       ],
-      "lastUpdated": "2026-05-24T12:20:44.164Z",
-      "checksum": "d142e30af1de35a7ef2da4fdd9aa2622008e5fa291d1ada25273acc9a886fb51"
+      "lastUpdated": "2026-06-27T10:47:05.585Z",
+      "checksum": "a2f5069e3a7dc91be9317bbf8486566e56de7bf11650426148877061782c75b6"
     },
     {
-      "key": "neet/2010/16may-s2",
-      "exam": "neet",
-      "year": 2010,
-      "shift": "16may-s2",
-      "total": 120,
-      "subjects": [
-        "physics",
-        "chemistry",
-        "biology"
-      ],
-      "lastUpdated": "2026-05-24T12:44:46.776Z",
-      "checksum": "340f44072561319e3ccdc11d244df49b10a79da9648882cca1e1571a4e271e5d"
-    },
-    {
-      "key": "neet/2011/03apr-s1",
-      "exam": "neet",
+      "key": "jeemain/2011/01may-s1",
+      "exam": "jeemain",
       "year": 2011,
-      "shift": "03apr-s1",
-      "total": 200,
-      "subjects": [
-        "physics",
-        "chemistry",
-        "biology"
-      ],
-      "lastUpdated": "2026-05-24T13:38:16.250Z",
-      "checksum": "7f8458984bbc65a1af9b09f9139ab9bce867865ab6fab7c2f3fbae28ea3fb241"
-    },
-    {
-      "key": "neet/2011/15may-s2",
-      "exam": "neet",
-      "year": 2011,
-      "shift": "15may-s2",
-      "total": 120,
-      "subjects": [
-        "physics",
-        "chemistry",
-        "biology"
-      ],
-      "lastUpdated": "2026-05-24T14:08:39.164Z",
-      "checksum": "261f08074d0bfce4195dfe213f1f247f787ce65249e31f4d5dfeb2ddae2d60a6"
-    },
-    {
-      "key": "neet/2012/13may-s2",
-      "exam": "neet",
-      "year": 2012,
-      "shift": "13may-s2",
-      "total": 116,
-      "subjects": [
-        "physics",
-        "chemistry",
-        "biology"
-      ],
-      "lastUpdated": "2026-05-24T16:15:07.364Z",
-      "checksum": "11ea36799b7f4f98e132d87d2fe0173d6507408346ae6362ec6ff2074e8fed35"
-    },
-    {
-      "key": "neet/2012/01apri-s1",
-      "exam": "neet",
-      "year": 2012,
-      "shift": "01apri-s1",
-      "total": 200,
-      "subjects": [
-        "physics",
-        "chemistry",
-        "biology"
-      ],
-      "lastUpdated": "2026-05-25T09:29:36.661Z",
-      "checksum": "4cf0787f93bec04cea0255f000dd97913acdb9ffa5820df3f156c8e3fc88b99f"
-    },
-    {
-      "key": "neet/2012/01",
-      "exam": "neet",
-      "year": 2012,
-      "shift": "01",
-      "total": 112,
-      "subjects": [
-        "physics",
-        "chemistry",
-        "biology"
-      ],
-      "lastUpdated": "2026-05-24T18:23:15.299Z",
-      "checksum": "3c04984eb986726093146007e018ac0bc611ccc5fe9b9836340d0440bfaf8725"
-    },
-    {
-      "key": "neet/2014/04may-s1",
-      "exam": "neet",
-      "year": 2014,
-      "shift": "04may-s1",
-      "total": 180,
-      "subjects": [
-        "physics",
-        "chemistry",
-        "biology"
-      ],
-      "lastUpdated": "2026-05-25T04:23:16.294Z",
-      "checksum": "5413540ce4f38246338c9af12337e0a1899368302ce23db4495c616019595925"
-    },
-    {
-      "key": "neet/2013/05may-s1",
-      "exam": "neet",
-      "year": 2013,
-      "shift": "05may-s1",
-      "total": 180,
-      "subjects": [
-        "physics",
-        "chemistry",
-        "biology"
-      ],
-      "lastUpdated": "2026-05-25T04:51:07.518Z",
-      "checksum": "621d07b02a93f98ce3874ee7cf0528e225d7b3af9569403a7c7824c6c817bc78"
-    },
-    {
-      "key": "neet/2015/03may-s1",
-      "exam": "neet",
-      "year": 2015,
-      "shift": "03may-s1",
-      "total": 180,
-      "subjects": [
-        "physics",
-        "chemistry",
-        "biology"
-      ],
-      "lastUpdated": "2026-05-25T05:14:36.132Z",
-      "checksum": "aaf0bc51539ce920aff91f7ec4faf6b7bacccb72c558b1519f8369dfb1e525f1"
-    },
-    {
-      "key": "neet/2015/25jul-s2",
-      "exam": "neet",
-      "year": 2015,
-      "shift": "25jul-s2",
-      "total": 180,
-      "subjects": [
-        "physics",
-        "chemistry",
-        "biology"
-      ],
-      "lastUpdated": "2026-05-25T07:29:39.173Z",
-      "checksum": "9c2847e011d06efab22a4c16c630e8c4e92a465a74df83ea2d351a020ef63d15"
-    },
-    {
-      "key": "neet/2016/01may-s1",
-      "exam": "neet",
-      "year": 2016,
       "shift": "01may-s1",
-      "total": 180,
+      "total": 90,
       "subjects": [
         "physics",
         "chemistry",
-        "biology"
+        "mathematics"
       ],
-      "lastUpdated": "2026-05-25T06:11:45.449Z",
-      "checksum": "c4b18690d0b3202ef270996529f1f2cc7bb175430c86fd5a8ddb02db9bf7d549"
-    },
-    {
-      "key": "neet/2016/24july-s2",
-      "exam": "neet",
-      "year": 2016,
-      "shift": "24july-s2",
-      "total": 180,
-      "subjects": [
-        "physics",
-        "chemistry",
-        "biology"
-      ],
-      "lastUpdated": "2026-05-25T06:43:57.742Z",
-      "checksum": "8ccde28ae5242c882ef175aadc0c6ae9c9fdeecd1345d6e1bf95720d02c873d3"
-    },
-    {
-      "key": "neet/2017/07may-s1",
-      "exam": "neet",
-      "year": 2017,
-      "shift": "07may-s1",
-      "total": 180,
-      "subjects": [
-        "physics",
-        "chemistry",
-        "biology"
-      ],
-      "lastUpdated": "2026-05-25T15:07:00.154Z",
-      "checksum": "a0219df385127ceafdcd0f9fc8306f9ac699f75e01c9308299bbe9cb38d12bcd"
-    },
-    {
-      "key": "neet/2018/06may-s1",
-      "exam": "neet",
-      "year": 2018,
-      "shift": "06may-s1",
-      "total": 180,
-      "subjects": [
-        "physics",
-        "chemistry",
-        "biology"
-      ],
-      "lastUpdated": "2026-05-25T16:22:04.025Z",
-      "checksum": "d55dd6936143d25fae514105cfa1ddf686ecfb71af90c130e5610b26a82a9726"
-    },
-    {
-      "key": "neet/2019/05may-s1",
-      "exam": "neet",
-      "year": 2019,
-      "shift": "05may-s1",
-      "total": 180,
-      "subjects": [
-        "physics",
-        "chemistry",
-        "biology"
-      ],
-      "lastUpdated": "2026-05-25T16:33:09.163Z",
-      "checksum": "1e23a10e5529279d84e8d69a3e4a73606fcba57e1c4acb61225b1cf0adcde440"
-    },
-    {
-      "key": "neet/2019/20may-s2",
-      "exam": "neet",
-      "year": 2019,
-      "shift": "20may-s2",
-      "total": 180,
-      "subjects": [
-        "physics",
-        "chemistry",
-        "biology"
-      ],
-      "lastUpdated": "2026-05-25T16:44:41.702Z",
-      "checksum": "99527e14ddbb2a98b8bd39b5662ae61fb4e0689c5378012bd62373d6489081ca"
-    },
-    {
-      "key": "neet/2020/13sep-s1",
-      "exam": "neet",
-      "year": 2020,
-      "shift": "13sep-s1",
-      "total": 180,
-      "subjects": [
-        "physics",
-        "chemistry",
-        "biology"
-      ],
-      "lastUpdated": "2026-05-25T17:19:50.200Z",
-      "checksum": "97f420fabe2cacc033cf5ef004ac95766cbe7ea5857ea1aa8436a9547adcb76b"
-    },
-    {
-      "key": "neet/2020/14oct-s2",
-      "exam": "neet",
-      "year": 2020,
-      "shift": "14oct-s2",
-      "total": 180,
-      "subjects": [
-        "physics",
-        "chemistry",
-        "biology"
-      ],
-      "lastUpdated": "2026-05-25T17:29:07.588Z",
-      "checksum": "8dbf2372badc10f1a593d2d3edc5b4132e5a3377cfbc3251c72cb4587e6ba745"
-    },
-    {
-      "key": "neet/2021/12sept-s1",
-      "exam": "neet",
-      "year": 2021,
-      "shift": "12sept-s1",
-      "total": 200,
-      "subjects": [
-        "physics",
-        "chemistry",
-        "biology"
-      ],
-      "lastUpdated": "2026-05-25T17:41:32.293Z",
-      "checksum": "c5d33ccdaf7e6c5314312e23ee81fa2f26ee868055551480084b833ac5525bc8"
+      "lastUpdated": "2026-06-27T08:11:24.496Z",
+      "checksum": "3adaa24bd033570b53f5c4bdaf9c1ff8831d964daad53e1f65fe7e92a481e09f"
     },
     {
       "key": "neet/1998/10may-s1",
@@ -473,7 +137,7 @@
         "chemistry",
         "biology"
       ],
-      "lastUpdated": "2026-06-26T16:52:48.038Z",
+      "lastUpdated": "2026-06-26T16:52:47.998Z",
       "checksum": "28c5731cbe819993e5e37386122a73052d13458bacab55619c016c25b5e3711f"
     },
     {
@@ -487,7 +151,7 @@
         "chemistry",
         "biology"
       ],
-      "lastUpdated": "2026-06-26T17:06:28.932Z",
+      "lastUpdated": "2026-06-26T17:06:28.908Z",
       "checksum": "ce20cf25cdfb9d4368cdd578b45b483baa5c7bf340b1c65d901ddaea636ac032"
     },
     {
@@ -501,7 +165,7 @@
         "chemistry",
         "mathematics"
       ],
-      "lastUpdated": "2026-06-26T17:43:38.478Z",
+      "lastUpdated": "2026-06-26T17:43:38.435Z",
       "checksum": "a2df22525afae63af56445448f4f9d44829a95eb9ebae38ad75047cac8be269d"
     },
     {
@@ -515,22 +179,8 @@
         "chemistry",
         "mathematics"
       ],
-      "lastUpdated": "2026-06-26T18:03:16.925Z",
+      "lastUpdated": "2026-06-26T18:03:16.904Z",
       "checksum": "981bfa21310ead3d6a5e47ddfac76b3536010a73c01199e2346b6bf86bd0fb32"
-    },
-    {
-      "key": "neet/2003/11may-s1",
-      "exam": "neet",
-      "year": 2003,
-      "shift": "11may-s1",
-      "total": 164,
-      "subjects": [
-        "physics",
-        "chemistry",
-        "biology"
-      ],
-      "lastUpdated": "2026-06-26T18:21:43.910Z",
-      "checksum": "2bc3b0d88534c15b499cb22ec1e5293dd27c38f03c7e223adb97a4f4be7b7cd6"
     },
     {
       "key": "neet/2002/05may-s1",
@@ -543,92 +193,487 @@
         "chemistry",
         "biology"
       ],
-      "lastUpdated": "2026-06-27T06:38:53.841Z",
+      "lastUpdated": "2026-06-27T06:38:53.807Z",
       "checksum": "279ac7bfffe8f2b6b5a522b0d4392117e1f3162c9ef422e87fa00881b24ffea2"
     },
     {
-      "key": "jeemain/2002/12may-s1",
-      "exam": "jeemain",
-      "year": 2002,
-      "shift": "12may-s1",
-      "total": 225,
-      "subjects": [
-        "physics",
-        "chemistry",
-        "mathematics"
-      ],
-      "lastUpdated": "2026-06-27T08:35:10.115Z",
-      "checksum": "69c397d1ce781f172711b333768cb102a1891e8effbaaca54b2b5b59b6630307"
-    },
-    {
-      "key": "jeemain/2011/01may-s1",
-      "exam": "jeemain",
-      "year": 2011,
-      "shift": "01may-s1",
-      "total": 90,
-      "subjects": [
-        "physics",
-        "chemistry",
-        "mathematics"
-      ],
-      "lastUpdated": "2026-06-27T08:11:24.918Z",
-      "checksum": "3adaa24bd033570b53f5c4bdaf9c1ff8831d964daad53e1f65fe7e92a481e09f"
-    },
-    {
-      "key": "jeemain/2003/11may-s1",
-      "exam": "jeemain",
+      "key": "neet/2003/11may-s1",
+      "exam": "neet",
       "year": 2003,
       "shift": "11may-s1",
-      "total": 225,
+      "total": 164,
       "subjects": [
         "physics",
         "chemistry",
-        "mathematics"
+        "biology"
       ],
-      "lastUpdated": "2026-06-27T09:16:42.596Z",
-      "checksum": "d03b9ecc083cbfb64a83632d1c5bde17da3854c86723fd40c9a66e630fb4dfed"
+      "lastUpdated": "2026-06-26T18:21:43.896Z",
+      "checksum": "2bc3b0d88534c15b499cb22ec1e5293dd27c38f03c7e223adb97a4f4be7b7cd6"
     },
     {
-      "key": "jeemain/2010/25apri-s1",
-      "exam": "jeemain",
-      "year": 2010,
-      "shift": "25apri-s1",
-      "total": 89,
+      "key": "neet/2006/07may-s1",
+      "exam": "neet",
+      "year": 2006,
+      "shift": "07may-s1",
+      "total": 200,
       "subjects": [
         "physics",
         "chemistry",
-        "mathematics"
+        "biology"
       ],
-      "lastUpdated": "2026-06-27T10:47:05.635Z",
-      "checksum": "a2f5069e3a7dc91be9317bbf8486566e56de7bf11650426148877061782c75b6"
+      "lastUpdated": "2026-05-24T11:11:35.589Z",
+      "checksum": "5d3611a490ee56828c04fd3c2bb9aa3731375498db277095a81b1fa3f0ef6d13"
     },
     {
-      "key": "jeemain/2008/27apri-s1",
-      "exam": "jeemain",
-      "year": 2008,
-      "shift": "27apri-s1",
-      "total": 105,
-      "subjects": [
-        "physics",
-        "chemistry",
-        "mathematics"
-      ],
-      "lastUpdated": "2026-06-27T09:25:38.688Z",
-      "checksum": "bd3cc959cd92e43043da8d23acef7793e586fc1939c15a661ec257cc72e60db9"
-    },
-    {
-      "key": "jeemain/2007/29apri-s1",
-      "exam": "jeemain",
+      "key": "neet/2007/13may-s1",
+      "exam": "neet",
       "year": 2007,
-      "shift": "29apri-s1",
+      "shift": "13may-s1",
+      "total": 200,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "biology"
+      ],
+      "lastUpdated": "2026-05-24T11:29:56.755Z",
+      "checksum": "7068604507cb1e956979a1a8fc8d1118d8b04ce87445fa588a1aea556f7c305d"
+    },
+    {
+      "key": "neet/2008/04may-s1",
+      "exam": "neet",
+      "year": 2008,
+      "shift": "04may-s1",
+      "total": 200,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "biology"
+      ],
+      "lastUpdated": "2026-05-24T11:44:50.302Z",
+      "checksum": "0bfa10a3116d2c3fdabc053a21dd9e44b7a4e02861d30d76bf1cf733d186a2c4"
+    },
+    {
+      "key": "neet/2009/03may-s1",
+      "exam": "neet",
+      "year": 2009,
+      "shift": "03may-s1",
+      "total": 200,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "biology"
+      ],
+      "lastUpdated": "2026-05-24T12:05:37.219Z",
+      "checksum": "eb2adbe28d9058cd53fad466a7ce69c38d4373026b3280de0cd91b1908ddacc7"
+    },
+    {
+      "key": "neet/2010/03apri-s1",
+      "exam": "neet",
+      "year": 2010,
+      "shift": "03apri-s1",
+      "total": 200,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "biology"
+      ],
+      "lastUpdated": "2026-05-24T12:20:44.144Z",
+      "checksum": "d142e30af1de35a7ef2da4fdd9aa2622008e5fa291d1ada25273acc9a886fb51"
+    },
+    {
+      "key": "neet/2010/16may-s2",
+      "exam": "neet",
+      "year": 2010,
+      "shift": "16may-s2",
       "total": 120,
       "subjects": [
         "physics",
         "chemistry",
+        "biology"
+      ],
+      "lastUpdated": "2026-05-24T12:44:46.765Z",
+      "checksum": "340f44072561319e3ccdc11d244df49b10a79da9648882cca1e1571a4e271e5d"
+    },
+    {
+      "key": "neet/2011/03apr-s1",
+      "exam": "neet",
+      "year": 2011,
+      "shift": "03apr-s1",
+      "total": 200,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "biology"
+      ],
+      "lastUpdated": "2026-05-24T13:38:16.227Z",
+      "checksum": "7f8458984bbc65a1af9b09f9139ab9bce867865ab6fab7c2f3fbae28ea3fb241"
+    },
+    {
+      "key": "neet/2011/15may-s2",
+      "exam": "neet",
+      "year": 2011,
+      "shift": "15may-s2",
+      "total": 120,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "biology"
+      ],
+      "lastUpdated": "2026-05-24T14:08:38.988Z",
+      "checksum": "261f08074d0bfce4195dfe213f1f247f787ce65249e31f4d5dfeb2ddae2d60a6"
+    },
+    {
+      "key": "neet/2012/01apri-s1",
+      "exam": "neet",
+      "year": 2012,
+      "shift": "01apri-s1",
+      "total": 200,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "biology"
+      ],
+      "lastUpdated": "2026-05-25T09:29:36.629Z",
+      "checksum": "4cf0787f93bec04cea0255f000dd97913acdb9ffa5820df3f156c8e3fc88b99f"
+    },
+    {
+      "key": "neet/2012/13may-s2",
+      "exam": "neet",
+      "year": 2012,
+      "shift": "13may-s2",
+      "total": 116,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "biology"
+      ],
+      "lastUpdated": "2026-05-24T16:15:07.280Z",
+      "checksum": "11ea36799b7f4f98e132d87d2fe0173d6507408346ae6362ec6ff2074e8fed35"
+    },
+    {
+      "key": "neet/2013/05may-s1",
+      "exam": "neet",
+      "year": 2013,
+      "shift": "05may-s1",
+      "total": 180,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "biology"
+      ],
+      "lastUpdated": "2026-05-25T04:51:07.504Z",
+      "checksum": "621d07b02a93f98ce3874ee7cf0528e225d7b3af9569403a7c7824c6c817bc78"
+    },
+    {
+      "key": "neet/2014/04may-s1",
+      "exam": "neet",
+      "year": 2014,
+      "shift": "04may-s1",
+      "total": 180,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "biology"
+      ],
+      "lastUpdated": "2026-05-25T04:23:16.277Z",
+      "checksum": "5413540ce4f38246338c9af12337e0a1899368302ce23db4495c616019595925"
+    },
+    {
+      "key": "neet/2015/03may-s1",
+      "exam": "neet",
+      "year": 2015,
+      "shift": "03may-s1",
+      "total": 180,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "biology"
+      ],
+      "lastUpdated": "2026-05-25T05:14:36.107Z",
+      "checksum": "aaf0bc51539ce920aff91f7ec4faf6b7bacccb72c558b1519f8369dfb1e525f1"
+    },
+    {
+      "key": "neet/2015/25jul-s2",
+      "exam": "neet",
+      "year": 2015,
+      "shift": "25jul-s2",
+      "total": 180,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "biology"
+      ],
+      "lastUpdated": "2026-05-25T07:29:39.148Z",
+      "checksum": "9c2847e011d06efab22a4c16c630e8c4e92a465a74df83ea2d351a020ef63d15"
+    },
+    {
+      "key": "neet/2016/01may-s1",
+      "exam": "neet",
+      "year": 2016,
+      "shift": "01may-s1",
+      "total": 180,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "biology"
+      ],
+      "lastUpdated": "2026-05-25T06:11:45.438Z",
+      "checksum": "c4b18690d0b3202ef270996529f1f2cc7bb175430c86fd5a8ddb02db9bf7d549"
+    },
+    {
+      "key": "neet/2016/24july-s2",
+      "exam": "neet",
+      "year": 2016,
+      "shift": "24july-s2",
+      "total": 180,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "biology"
+      ],
+      "lastUpdated": "2026-05-25T06:43:57.729Z",
+      "checksum": "8ccde28ae5242c882ef175aadc0c6ae9c9fdeecd1345d6e1bf95720d02c873d3"
+    },
+    {
+      "key": "neet/2017/07may-s1",
+      "exam": "neet",
+      "year": 2017,
+      "shift": "07may-s1",
+      "total": 180,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "biology"
+      ],
+      "lastUpdated": "2026-05-25T15:07:00.134Z",
+      "checksum": "a0219df385127ceafdcd0f9fc8306f9ac699f75e01c9308299bbe9cb38d12bcd"
+    },
+    {
+      "key": "neet/2018/06may-s1",
+      "exam": "neet",
+      "year": 2018,
+      "shift": "06may-s1",
+      "total": 180,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "biology"
+      ],
+      "lastUpdated": "2026-05-25T16:22:04.010Z",
+      "checksum": "d55dd6936143d25fae514105cfa1ddf686ecfb71af90c130e5610b26a82a9726"
+    },
+    {
+      "key": "neet/2019/05may-s1",
+      "exam": "neet",
+      "year": 2019,
+      "shift": "05may-s1",
+      "total": 180,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "biology"
+      ],
+      "lastUpdated": "2026-05-25T16:33:09.149Z",
+      "checksum": "1e23a10e5529279d84e8d69a3e4a73606fcba57e1c4acb61225b1cf0adcde440"
+    },
+    {
+      "key": "neet/2019/20may-s2",
+      "exam": "neet",
+      "year": 2019,
+      "shift": "20may-s2",
+      "total": 180,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "biology"
+      ],
+      "lastUpdated": "2026-05-25T16:44:41.625Z",
+      "checksum": "99527e14ddbb2a98b8bd39b5662ae61fb4e0689c5378012bd62373d6489081ca"
+    },
+    {
+      "key": "neet/2020/13sep-s1",
+      "exam": "neet",
+      "year": 2020,
+      "shift": "13sep-s1",
+      "total": 180,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "biology"
+      ],
+      "lastUpdated": "2026-05-25T17:19:50.187Z",
+      "checksum": "97f420fabe2cacc033cf5ef004ac95766cbe7ea5857ea1aa8436a9547adcb76b"
+    },
+    {
+      "key": "neet/2020/14oct-s2",
+      "exam": "neet",
+      "year": 2020,
+      "shift": "14oct-s2",
+      "total": 180,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "biology"
+      ],
+      "lastUpdated": "2026-05-25T17:29:07.552Z",
+      "checksum": "8dbf2372badc10f1a593d2d3edc5b4132e5a3377cfbc3251c72cb4587e6ba745"
+    },
+    {
+      "key": "neet/2021/12sep-s1",
+      "exam": "neet",
+      "year": 2021,
+      "shift": "12sep-s1",
+      "total": 200,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "biology"
+      ],
+      "lastUpdated": "2026-05-24T06:18:10.686Z",
+      "checksum": "f3bbbc8f73bdb8ae1bd285fd9f8fe5fbbaf5177846c1487da57f18d192ca0cf3"
+    },
+    {
+      "key": "neet/2021/12sept-s1",
+      "exam": "neet",
+      "year": 2021,
+      "shift": "12sept-s1",
+      "total": 200,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "biology"
+      ],
+      "lastUpdated": "2026-05-25T17:41:32.263Z",
+      "checksum": "c5d33ccdaf7e6c5314312e23ee81fa2f26ee868055551480084b833ac5525bc8"
+    },
+    {
+      "key": "neet/2022/04sep-s2",
+      "exam": "neet",
+      "year": 2022,
+      "shift": "04sep-s2",
+      "total": 132,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "biology"
+      ],
+      "lastUpdated": "2026-05-23T11:21:10.759Z",
+      "checksum": "477c4138ac551680725fd7a4c6fcc429d29a215d625b2d53b288f5a6f0da1a12"
+    },
+    {
+      "key": "neet/2022/17jul-s1",
+      "exam": "neet",
+      "year": 2022,
+      "shift": "17jul-s1",
+      "total": 197,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "biology"
+      ],
+      "lastUpdated": "2026-05-23T06:46:33.925Z",
+      "checksum": "7945ef60f6b1352eb949bbf75e430b1caf372de93473b298a517d49b6c4b91aa"
+    },
+    {
+      "key": "neet/2023/06jun-s2",
+      "exam": "neet",
+      "year": 2023,
+      "shift": "06jun-s2",
+      "total": 147,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "biology"
+      ],
+      "lastUpdated": "2026-05-21T18:58:08.912Z",
+      "checksum": "f104f008187cbd2475daa012967517ee2b8404827cb4c765bec9926080625695"
+    },
+    {
+      "key": "neet/2023/07may-s1",
+      "exam": "neet",
+      "year": 2023,
+      "shift": "07may-s1",
+      "total": 130,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "biology"
+      ],
+      "lastUpdated": "2026-05-21T18:43:05.604Z",
+      "checksum": "21cc04198e1d72eacb2de9a920f205021b822b8d53b68c3cc97b14e5ab9bdcd0"
+    },
+    {
+      "key": "neet/2024/05may-s1",
+      "exam": "neet",
+      "year": 2024,
+      "shift": "05may-s1",
+      "total": 200,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "biology"
+      ],
+      "lastUpdated": "2026-05-21T05:30:13.506Z",
+      "checksum": "80e650897f00410197f0eb46d6267d7162efb8170b52456cdf3b33743195862d"
+    },
+    {
+      "key": "neet/2024/23jun-s2",
+      "exam": "neet",
+      "year": 2024,
+      "shift": "23jun-s2",
+      "total": 200,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "biology"
+      ],
+      "lastUpdated": "2026-05-21T06:00:10.372Z",
+      "checksum": "279fbf10eec749300851a09ab3045235bbdecc04c2345de28a78bf629ad36d50"
+    },
+    {
+      "key": "neet/2025/04may-s1",
+      "exam": "neet",
+      "year": 2025,
+      "shift": "04may-s1",
+      "total": 180,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "biology"
+      ],
+      "lastUpdated": "2026-05-20T17:59:59.508Z",
+      "checksum": "8bde99a5b5d72a2dc73ad34e7e3b8028a2e2e99766ba6feac1f8bb4cc2fab825"
+    },
+    {
+      "key": "neet/2026/03may-s1",
+      "exam": "neet",
+      "year": 2026,
+      "shift": "03may-s1",
+      "total": 177,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "biology"
+      ],
+      "lastUpdated": "2026-05-21T17:29:54.784Z",
+      "checksum": "40210fc3912a4422c2481e6eba82a4b7325ed300f3bbf2b9b2f0343cc5b25373"
+    },
+    {
+      "key": "jeemain/2004/09may-s1",
+      "exam": "jeemain",
+      "year": 2004,
+      "shift": "09may-s1",
+      "total": 225,
+      "subjects": [
+        "physics",
+        "chemistry",
         "mathematics"
       ],
-      "lastUpdated": "2026-06-27T10:03:51.765Z",
-      "checksum": "1bc2fb3628181a8dcdf8008d0767af8bf958b32c2396899e6da258824c6bdaa8"
+      "lastUpdated": "2026-06-28T06:37:35.033Z",
+      "checksum": "6b40a83d80f7673565930be6db4b3d1930eb20dfaeafff661ac8e01cb35cc202"
     }
-  ]
+  ],
+  "totalDatasets": 47,
+  "totalQuestions": 8086,
+  "lastRebuilt": "2026-06-27T11:42:41.234Z"
 }
