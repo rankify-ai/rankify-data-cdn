@@ -533,20 +533,6 @@
       "checksum": "8dbf2372badc10f1a593d2d3edc5b4132e5a3377cfbc3251c72cb4587e6ba745"
     },
     {
-      "key": "neet/2021/12sep-s1",
-      "exam": "neet",
-      "year": 2021,
-      "shift": "12sep-s1",
-      "total": 200,
-      "subjects": [
-        "physics",
-        "chemistry",
-        "biology"
-      ],
-      "lastUpdated": "2026-05-24T06:18:10.686Z",
-      "checksum": "f3bbbc8f73bdb8ae1bd285fd9f8fe5fbbaf5177846c1487da57f18d192ca0cf3"
-    },
-    {
       "key": "neet/2021/12sept-s1",
       "exam": "neet",
       "year": 2021,
@@ -641,7 +627,7 @@
         "chemistry",
         "biology"
       ],
-      "lastUpdated": "2026-05-21T06:00:10.372Z",
+      "lastUpdated": "2026-08-09T07:17:41.535Z",
       "checksum": "279fbf10eec749300851a09ab3045235bbdecc04c2345de28a78bf629ad36d50"
     },
     {
@@ -673,7 +659,7 @@
       "checksum": "40210fc3912a4422c2481e6eba82a4b7325ed300f3bbf2b9b2f0343cc5b25373"
     }
   ],
-  "totalDatasets": 48,
-  "totalQuestions": 8388,
-  "lastRebuilt": "2026-08-09T04:09:32.095Z"
+  "totalDatasets": 47,
+  "totalQuestions": 8188,
+  "lastRebuilt": "2026-08-09T07:12:29.733Z"
 }
