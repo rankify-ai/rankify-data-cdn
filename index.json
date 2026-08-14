@@ -2645,6 +2645,552 @@
       ],
       "lastUpdated": "2026-08-13T04:57:08.917Z",
       "checksum": "ba394a9c963a741a29a8998a35bde8aa4cbc7ac5f723ed3bdaf69cc6486102e3"
+    },
+    {
+      "key": "jeemain/2020/06sep-s2",
+      "exam": "jeemain",
+      "year": 2020,
+      "shift": "06sep-s2",
+      "total": 75,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T04:19:42.903Z",
+      "checksum": "a1073b4855d393c2250c8a11f1086368d3a9ea2fd040f79c0cfff4758b89ad80"
+    },
+    {
+      "key": "jeemain/2020/03sep-s1",
+      "exam": "jeemain",
+      "year": 2020,
+      "shift": "03sep-s1",
+      "total": 72,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T04:19:57.411Z",
+      "checksum": "226baaa9924e1b4296350f44974f46b15af4000eb8c9f3a926890ba4f33296e9"
+    },
+    {
+      "key": "jeemain/2020/09jan-s2",
+      "exam": "jeemain",
+      "year": 2020,
+      "shift": "09jan-s2",
+      "total": 75,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T04:20:28.474Z",
+      "checksum": "61db897bf188a39a07d25050b526ed3980d7cb5a558fa51c644cd8028f4fbf14"
+    },
+    {
+      "key": "jeemain/2020/06sep-s1",
+      "exam": "jeemain",
+      "year": 2020,
+      "shift": "06sep-s1",
+      "total": 75,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T04:20:48.792Z",
+      "checksum": "9beddda4908b3fc23a08089b8ace63379ab8c4b0c0ebb080d22ad7705baff3cb"
+    },
+    {
+      "key": "jeemain/2020/08jan-s2",
+      "exam": "jeemain",
+      "year": 2020,
+      "shift": "08jan-s2",
+      "total": 73,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T04:21:03.805Z",
+      "checksum": "f038782981c9a2e75f2a754f9f6b4fcbdc7659264b3ce5cc3aeaea1305d2f8ed"
+    },
+    {
+      "key": "jeemain/2020/03sep-s2",
+      "exam": "jeemain",
+      "year": 2020,
+      "shift": "03sep-s2",
+      "total": 74,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T04:21:19.437Z",
+      "checksum": "81bce35a928e4fb394450623e03c4e3fa14f8354cf0ff26058c59a60cd00a81e"
+    },
+    {
+      "key": "jeemain/2020/04sep-s1",
+      "exam": "jeemain",
+      "year": 2020,
+      "shift": "04sep-s1",
+      "total": 75,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T04:21:37.978Z",
+      "checksum": "01dd2aa215edcc90c24b43103dd1df854cc33b74a295ec064e5029069fcf875b"
+    },
+    {
+      "key": "jeemain/2020/05sep-s2",
+      "exam": "jeemain",
+      "year": 2020,
+      "shift": "05sep-s2",
+      "total": 75,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T04:21:54.843Z",
+      "checksum": "173780d8d2d1f78b26402ebc954b606212c48c65dfd244b34bd884261eb13037"
+    },
+    {
+      "key": "jeemain/2020/08jan-s1",
+      "exam": "jeemain",
+      "year": 2020,
+      "shift": "08jan-s1",
+      "total": 75,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T04:22:09.343Z",
+      "checksum": "a8d04d2575ae0fc73d617b5de2deda218837fac65fc3b34354f97cfa181523f9"
+    },
+    {
+      "key": "jeemain/2020/07jan-s2",
+      "exam": "jeemain",
+      "year": 2020,
+      "shift": "07jan-s2",
+      "total": 75,
+      "subjects": [
+        "physics",
+        "mathematics",
+        "chemistry"
+      ],
+      "lastUpdated": "2026-08-14T04:22:24.781Z",
+      "checksum": "7ddce0a5d0a227f434c5af132f76aa5c33fd358a34ea2b1ef8cd1d51227da7ce"
+    },
+    {
+      "key": "jeemain/2020/02sep-s2",
+      "exam": "jeemain",
+      "year": 2020,
+      "shift": "02sep-s2",
+      "total": 75,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T04:22:43.344Z",
+      "checksum": "cc2dc1fa1fd6da1c73d500e4ed927977a668c5c2a45bf8e2cf6301112cd1b3a0"
+    },
+    {
+      "key": "jeemain/2020/04sep-s2",
+      "exam": "jeemain",
+      "year": 2020,
+      "shift": "04sep-s2",
+      "total": 75,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T04:22:58.276Z",
+      "checksum": "6150dbf0b0827521ec742cdbfd437113b8c3a89416fced004e719431ae422dfb"
+    },
+    {
+      "key": "jeemain/2020/02sep-s1",
+      "exam": "jeemain",
+      "year": 2020,
+      "shift": "02sep-s1",
+      "total": 75,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T04:23:16.848Z",
+      "checksum": "9f88fc566adaefe40c62aedf01c602a40dc398fa6eb841570e06780132be6b91"
+    },
+    {
+      "key": "jeemain/2020/07jan-s1",
+      "exam": "jeemain",
+      "year": 2020,
+      "shift": "07jan-s1",
+      "total": 75,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T04:23:29.214Z",
+      "checksum": "c86cec0c57b392f85a1a7c85faa3002dfcc7fc69da674d058bbd8ace9b9f2978"
+    },
+    {
+      "key": "jeemain/2020/05sep-s1",
+      "exam": "jeemain",
+      "year": 2020,
+      "shift": "05sep-s1",
+      "total": 75,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T04:23:42.688Z",
+      "checksum": "32f5df4e79a1e53bb8c3fbaac8496a9763ed4c007925b86a6039562f7d281a5f"
+    },
+    {
+      "key": "jeemain/2020/09jan-s1",
+      "exam": "jeemain",
+      "year": 2020,
+      "shift": "09jan-s1",
+      "total": 75,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T04:24:00.739Z",
+      "checksum": "ca53652475835d37ed4ebbeab156b63da2dcc8747a79f31b9352134e2d30530f"
+    },
+    {
+      "key": "jeeadv/2020/27sep-s1",
+      "exam": "jeeadv",
+      "year": 2020,
+      "shift": "27sep-s1",
+      "total": 54,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T04:42:02.093Z",
+      "checksum": "f613fcbda0b1db3bcce2a001fa10a199a4e9d9cb13c399f7cfea0015753371b3"
+    },
+    {
+      "key": "jeeadv/2020/27sep-s2",
+      "exam": "jeeadv",
+      "year": 2020,
+      "shift": "27sep-s2",
+      "total": 54,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T04:42:06.169Z",
+      "checksum": "baac87ba33748879e2e2660cb389be7b957fe26155111fcb69450b241dd635cd"
+    },
+    {
+      "key": "jeemain/2019/12jan-s2",
+      "exam": "jeemain",
+      "year": 2019,
+      "shift": "12jan-s2",
+      "total": 90,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T05:02:05.482Z",
+      "checksum": "2c8080c7c94281a87adb21ea61023fd62215fc815a69b5760a5374b3680bcf5e"
+    },
+    {
+      "key": "jeemain/2019/09apr-s2",
+      "exam": "jeemain",
+      "year": 2019,
+      "shift": "09apr-s2",
+      "total": 90,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T05:02:20.481Z",
+      "checksum": "cf5d02eec95a156a14f0f6ba7d0bcd774c5e44a0bf34876a2b5528481957aae8"
+    },
+    {
+      "key": "jeemain/2019/11jan-s1",
+      "exam": "jeemain",
+      "year": 2019,
+      "shift": "11jan-s1",
+      "total": 90,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T05:02:36.002Z",
+      "checksum": "f0e770f4de05950de02a68b705390714b155ef1516efbe4dec0b50a5dac44e05"
+    },
+    {
+      "key": "jeemain/2019/10apr-s1",
+      "exam": "jeemain",
+      "year": 2019,
+      "shift": "10apr-s1",
+      "total": 90,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T05:02:49.344Z",
+      "checksum": "ab4bb396d1e3a4f48b4e23080e37ef49ee9f6d5a895f0d50ddb9f20951b456c9"
+    },
+    {
+      "key": "jeemain/2019/09apr-s1",
+      "exam": "jeemain",
+      "year": 2019,
+      "shift": "09apr-s1",
+      "total": 90,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T05:03:00.956Z",
+      "checksum": "dd119df69bd1e7eea27d0ddfbbc46d0e43b0eb123297b1a3f1bce130facb0625"
+    },
+    {
+      "key": "jeemain/2019/08apr-s2",
+      "exam": "jeemain",
+      "year": 2019,
+      "shift": "08apr-s2",
+      "total": 90,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T05:03:16.571Z",
+      "checksum": "ae2ea2deb7117476add81375b9cd1edba07a355725b1bce95d3e5d853bc65cda"
+    },
+    {
+      "key": "jeemain/2019/09jan-s2",
+      "exam": "jeemain",
+      "year": 2019,
+      "shift": "09jan-s2",
+      "total": 90,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T05:03:34.702Z",
+      "checksum": "6c6907d5b59304bba6fb0e455ffc6bf33915c8f9a3305dee6bc0a171e4ea8a3d"
+    },
+    {
+      "key": "jeemain/2019/10apr-s2",
+      "exam": "jeemain",
+      "year": 2019,
+      "shift": "10apr-s2",
+      "total": 90,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T05:03:52.254Z",
+      "checksum": "2782d9b385225d41eb60674cd1b2cd960c23cd4586dceee96fb294686f88d5ba"
+    },
+    {
+      "key": "jeemain/2019/12jan-s1",
+      "exam": "jeemain",
+      "year": 2019,
+      "shift": "12jan-s1",
+      "total": 90,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T05:04:15.093Z",
+      "checksum": "492df3653c79b2cd553f068ff14ee826c274d3797c9b12ff88b3769a3fc6c9fc"
+    },
+    {
+      "key": "jeemain/2019/09jan-s1",
+      "exam": "jeemain",
+      "year": 2019,
+      "shift": "09jan-s1",
+      "total": 90,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T05:04:39.347Z",
+      "checksum": "e1b78fa8852d7e299e9f9fb258e28efb2d01144009fa5c2cb93287704615d3d6"
+    },
+    {
+      "key": "jeemain/2019/08apr-s1",
+      "exam": "jeemain",
+      "year": 2019,
+      "shift": "08apr-s1",
+      "total": 90,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T05:05:16.873Z",
+      "checksum": "dc64f5ffeb91c9f7eed4bd0d86fff0f0e7d28e5b69a1963aae0f3071e5304838"
+    },
+    {
+      "key": "jeemain/2019/11jan-s2",
+      "exam": "jeemain",
+      "year": 2019,
+      "shift": "11jan-s2",
+      "total": 90,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T05:10:35.970Z",
+      "checksum": "b366a92c0298cdcf6c0747940ccfffa60ca1b73aa0fd102fe0fd38328bcfe100"
+    },
+    {
+      "key": "jeemain/2019/12apr-s2",
+      "exam": "jeemain",
+      "year": 2019,
+      "shift": "12apr-s2",
+      "total": 90,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T05:05:55.752Z",
+      "checksum": "5a214a2669dd352cbbb104014239a8b4cc09d6dddd8be73d8d625631b8a67118"
+    },
+    {
+      "key": "jeemain/2019/12apr-s1",
+      "exam": "jeemain",
+      "year": 2019,
+      "shift": "12apr-s1",
+      "total": 90,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T05:06:17.109Z",
+      "checksum": "fa84568ddd6638324e9801ac731f2c6e6198041b77e21071d91f78449ec8d454"
+    },
+    {
+      "key": "jeemain/2019/10jan-s1",
+      "exam": "jeemain",
+      "year": 2019,
+      "shift": "10jan-s1",
+      "total": 90,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T05:06:43.730Z",
+      "checksum": "312cf24ed725aa4551a3e8ef3614032529cd7197185b2de3d2e525fdcb0a2b48"
+    },
+    {
+      "key": "jeeadv/2019/27may-s1",
+      "exam": "jeeadv",
+      "year": 2019,
+      "shift": "27may-s1",
+      "total": 54,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T05:12:08.659Z",
+      "checksum": "de72547c4e6e75482998795c9190a5afabc371f520038789b74a4d8abe9bc25b"
+    },
+    {
+      "key": "jeeadv/2019/27may-s2",
+      "exam": "jeeadv",
+      "year": 2019,
+      "shift": "27may-s2",
+      "total": 54,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T05:12:21.889Z",
+      "checksum": "f84743352d7337b0081b37607ed4fd4d190a812bd1af91aac362e42330c64b04"
+    },
+    {
+      "key": "jeemain/2018/15apr-s2",
+      "exam": "jeemain",
+      "year": 2018,
+      "shift": "15apr-s2",
+      "total": 90,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T05:21:39.433Z",
+      "checksum": "e59988aa63c6043f0aea03808fb009287dbc2386bf50edb780f786e46f5028dd"
+    },
+    {
+      "key": "jeemain/2018/16apr-s1",
+      "exam": "jeemain",
+      "year": 2018,
+      "shift": "16apr-s1",
+      "total": 90,
+      "subjects": [
+        "mathematics",
+        "physics",
+        "chemistry"
+      ],
+      "lastUpdated": "2026-08-14T05:22:06.442Z",
+      "checksum": "428add542e4a304e4d9b4450f1f56854ad85ccbb946bb35765482b391078b262"
+    },
+    {
+      "key": "jeemain/2018/15apr-s1",
+      "exam": "jeemain",
+      "year": 2018,
+      "shift": "15apr-s1",
+      "total": 90,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T05:22:34.044Z",
+      "checksum": "9b3a33f56a9911b50c4a4eab579f32ebcac5c0a1472af629abbb04362224693c"
+    },
+    {
+      "key": "jeemain/2018/08apr-s1",
+      "exam": "jeemain",
+      "year": 2018,
+      "shift": "08apr-s1",
+      "total": 90,
+      "subjects": [
+        "physics",
+        "chemistry",
+        "mathematics"
+      ],
+      "lastUpdated": "2026-08-14T05:30:54.543Z",
+      "checksum": "3d96c9c50ad452e6c948d4771c36602dcf2016ecb970d56beaa621c2f5f304d9"
     }
   ],
   "totalDatasets": 47,
