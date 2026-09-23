@@ -3189,8 +3189,8 @@
         "chemistry",
         "biology"
       ],
-      "lastUpdated": "2026-09-16T18:00:06.282Z",
-      "checksum": "43807714bc2bd3f68f6d11825be22f32e4670426e3b12334495392f087eeae11"
+      "lastUpdated": "2026-09-23T09:46:16.719Z",
+      "checksum": "2d69624762d58be02e7fd9195634b84f1dadf84f73f5e4b7acf7b33161a727b7"
     },
     {
       "key": "neet/2011/15may-s2",
@@ -3203,8 +3203,8 @@
         "physics",
         "chemistry"
       ],
-      "lastUpdated": "2026-09-16T19:02:38.077Z",
-      "checksum": "b568118271e17ee67d95bb30285307db83c87299ab2ac43002f3b82945c84021"
+      "lastUpdated": "2026-09-23T15:10:21.234Z",
+      "checksum": "6cce92c4bd3cd131abb7fac20b1a09ff9aaefb416bda72fbef10ace0462879bb"
     },
     {
       "key": "neet/2012/01apri-s1",
@@ -3217,8 +3217,8 @@
         "biology",
         "physics"
       ],
-      "lastUpdated": "2026-09-16T07:23:18.416Z",
-      "checksum": "5da9881152c327b785b516c66855b54ea1524be796890f58f9a6af72f61750d0"
+      "lastUpdated": "2026-09-23T14:56:31.165Z",
+      "checksum": "fae9fca59826c876e469d357b2fb546091492c1883ee949a90a579b12d4c379e"
     },
     {
       "key": "neet/2013/05may-s1",
@@ -3287,8 +3287,8 @@
         "chemistry",
         "biology"
       ],
-      "lastUpdated": "2026-09-16T05:11:08.327Z",
-      "checksum": "aafed9bfc97aa8777f7a15bd9a991bdc68d8dd888b1435f09df9b0d4ed8eb786"
+      "lastUpdated": "2026-09-23T11:32:32.890Z",
+      "checksum": "82bcb754053ed8fca3ada7b60fdd4c9dd73ac9707360d7fdac8c505b78cc3200"
     },
     {
       "key": "neet/2016/24july-s2",
@@ -3297,12 +3297,12 @@
       "shift": "24july-s2",
       "total": 180,
       "subjects": [
+        "biology",
         "physics",
-        "chemistry",
-        "biology"
+        "chemistry"
       ],
-      "lastUpdated": "2026-09-16T05:30:25.222Z",
-      "checksum": "b7f2468ab892ebdf2c889c4c3d62be2ba210ca8b558c0c7cac92fd5c37d23a28"
+      "lastUpdated": "2026-09-23T16:18:11.367Z",
+      "checksum": "7803a42f6d673fdd347fbb51db01fa60e7376494a942e65b2a8d34cb5ea4223e"
     },
     {
       "key": "neet/2017/07may-s1",
@@ -3315,8 +3315,8 @@
         "chemistry",
         "biology"
       ],
-      "lastUpdated": "2026-09-16T09:39:02.948Z",
-      "checksum": "05bcc60ccee4a321536c4eefd04da3fae046077280e614be21739ce03a6bdb8a"
+      "lastUpdated": "2026-09-23T10:21:56.131Z",
+      "checksum": "02e6d53b21da6a5869ed6a7284bad7a75b978d5257bca3771914bcee60eb37bc"
     },
     {
       "key": "neet/2018/06may-s1",
@@ -3371,8 +3371,8 @@
         "chemistry",
         "biology"
       ],
-      "lastUpdated": "2026-09-16T06:03:49.066Z",
-      "checksum": "b47ecc60050d91ad9d0991654357c4f735b626789babacdbca9e8a2dda60bb5a"
+      "lastUpdated": "2026-09-23T11:08:12.405Z",
+      "checksum": "10df5e7d485107257f62ea6305399e4015015b176a8ceef19f62155e6ce666de"
     },
     {
       "key": "neet/2020/14oct-s2",
@@ -3385,8 +3385,8 @@
         "chemistry",
         "biology"
       ],
-      "lastUpdated": "2026-09-16T05:35:18.645Z",
-      "checksum": "0c3f13ed974daf2f5ac907a20ecfdf4560a47edcc252c00df6d2c34e1390ab34"
+      "lastUpdated": "2026-09-23T15:36:49.406Z",
+      "checksum": "8c427a3b83f215c52a772d2a6620188bc571ba6d6416b39008d50e886c7be5b2"
     },
     {
       "key": "neet/2021/12sept-s1",
@@ -3407,14 +3407,14 @@
       "exam": "neet",
       "year": 2022,
       "shift": "17jul-s1",
-      "total": 197,
+      "total": 200,
       "subjects": [
         "physics",
         "chemistry",
         "biology"
       ],
-      "lastUpdated": "2026-09-16T07:08:46.363Z",
-      "checksum": "79147c89fda2f5287116a4c0c3d3024fe2ecfe8d1838111fa74a5268cd43d15b"
+      "lastUpdated": "2026-09-23T15:17:48.656Z",
+      "checksum": "bf7f5d325aedc8a10e4c52c1ef2dfba9296da9bea8f73ac203c7e736fb4df480"
     },
     {
       "key": "neet/2023/06jun-s2",
@@ -3525,8 +3525,8 @@
         "chemistry",
         "biology"
       ],
-      "lastUpdated": "2026-09-16T06:21:41.606Z",
-      "checksum": "b607b2dcb4f887ad8ef130ad7ebbf76897ff9cbe1e0865f54a100cb605b52e1d"
+      "lastUpdated": "2026-09-23T15:55:51.353Z",
+      "checksum": "8e67d53a95eec80e645dd4d6c54e2aa2ba630e2fd3554828cd758ca6752582bd"
     },
     {
       "key": "neet/2012/13may-s2",
@@ -3539,8 +3539,8 @@
         "biology",
         "chemistry"
       ],
-      "lastUpdated": "2026-09-16T18:15:38.254Z",
-      "checksum": "06b17804cf0127d4c7ffd79ecd70db813977432b032ba95ac9c9cb19f2dbc10e"
+      "lastUpdated": "2026-09-23T14:25:46.679Z",
+      "checksum": "8abbb07edf2ff2be787bf5b74bcab7385178c0e97913fc50a1ea814e814c2e94"
     }
   ],
   "totalDatasets": 252,
